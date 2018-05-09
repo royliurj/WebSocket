@@ -1,0 +1,225 @@
+E:\Project\Solution2015\WebSocketDemo\bin\ApplicationInsights.config
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\csc.exe
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\vbc.exe
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\VBCSCompiler.exe
+E:\Project\Solution2015\WebSocketDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Solution2015\WebSocketDemo\bin\WebSocketDemo.dll.config
+E:\Project\Solution2015\WebSocketDemo\bin\WebSocketDemo.dll
+E:\Project\Solution2015\WebSocketDemo\bin\WebSocketDemo.pdb
+E:\Project\Solution2015\WebSocketDemo\bin\Antlr3.Runtime.dll
+E:\Project\Solution2015\WebSocketDemo\bin\EntityFramework.dll
+E:\Project\Solution2015\WebSocketDemo\bin\EntityFramework.SqlServer.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.Web.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.WindowsServer.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.ApplicationInsights.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.Google.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Newtonsoft.Json.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Owin.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Net.Http.Formatting.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Helpers.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Http.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Http.Owin.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Http.WebHost.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Mvc.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Optimization.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Razor.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.WebPages.Deployment.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.WebPages.dll
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.WebPages.Razor.dll
+E:\Project\Solution2015\WebSocketDemo\bin\WebGrease.dll
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.Web.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AI.WindowsServer.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.ApplicationInsights.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Newtonsoft.Json.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Net.Http.Formatting.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Helpers.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Http.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Http.WebHost.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Mvc.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Optimization.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Razor.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.WebPages.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.WebPages.Deployment.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.WebPages.Razor.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Antlr3.Runtime.pdb
+E:\Project\Solution2015\WebSocketDemo\bin\EntityFramework.xml
+E:\Project\Solution2015\WebSocketDemo\bin\EntityFramework.SqlServer.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.Google.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Project\Solution2015\WebSocketDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Project\Solution2015\WebSocketDemo\bin\System.Web.Http.Owin.xml
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.Http.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\EntityFramework.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Project\Solution2015\WebSocketDemo\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\Project\Solution2015\WebSocketDemo\obj\Debug\WebSocketDemo.csprojResolveAssemblyReference.cache
+E:\Project\Solution2015\WebSocketDemo\obj\Debug\WebSocketDemo.dll
+E:\Project\Solution2015\WebSocketDemo\obj\Debug\WebSocketDemo.pdb
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\ApplicationInsights.config
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\csc.exe
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\vbc.exe
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\VBCSCompiler.exe
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\WebSocketDemo.dll.config
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\WebSocketDemo.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\WebSocketDemo.pdb
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Antlr3.Runtime.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\EntityFramework.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\EntityFramework.SqlServer.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.Web.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.WindowsServer.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.ApplicationInsights.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.Google.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Newtonsoft.Json.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Owin.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Net.Http.Formatting.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Helpers.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Http.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Http.Owin.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Http.WebHost.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Mvc.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Optimization.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Razor.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.WebPages.Deployment.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.WebPages.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.WebPages.Razor.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\WebGrease.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.Web.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AI.WindowsServer.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.ApplicationInsights.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Newtonsoft.Json.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Net.Http.Formatting.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Helpers.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Http.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Http.WebHost.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Mvc.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Optimization.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Razor.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.WebPages.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.WebPages.Deployment.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.WebPages.Razor.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Antlr3.Runtime.pdb
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\EntityFramework.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\EntityFramework.SqlServer.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.Google.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\System.Web.Http.Owin.xml
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.Http.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\EntityFramework.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\obj\Debug\WebSocketDemo.dll
+E:\Project\Solution2015 - 副本\WebSocketDemo\obj\Debug\WebSocketDemo.pdb
